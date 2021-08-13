@@ -1,20 +1,23 @@
-body{
-    text-align: center;
-    background-color: cornsilk;
-}
 h1{
     color:red;
     text-align: center;
     font-family: 'Rajdhani', sans-serif;
     font-size: 2rem;
     font-weight: bolder;
+    text-align: justify;
 }
 #small{
 
     font-style: italic;
+    text-align: left;
 }
 .noticia{
     font-family: 'Rajdhani', sans-serif;
     font-size: 1rem;
+    text-align: justify;
+}
+
+.centraliza{
+    text-align: center;
 }
 
