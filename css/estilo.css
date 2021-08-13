@@ -5,18 +5,16 @@ body{
 h1{
     color:red;
     text-align: center;
-    font-family: 'Georama', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
     font-size: 2rem;
+    font-weight: bolder;
 }
 #small{
 
     font-style: italic;
 }
 .noticia{
-    font-family: 'Work Sans', sans-serif;
-
+    font-family: 'Rajdhani', sans-serif;
     font-size: 1rem;
-
-    padding-top: -20;
 }
 
